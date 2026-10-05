@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 .metadata/
+
+
+# Security & Build Hygeine additions
+.env
+*.env
